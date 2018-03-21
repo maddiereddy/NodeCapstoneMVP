@@ -13,6 +13,7 @@
 * 		Landing page
 * 		Sign up screen
 * 		Log in screen
-* 		Main page ith list of all wine entries
+* 		Main Home page with list of all wine entries
 * 		Add a wine entry screen
 * 		View/Edit a wine entry screen
+* 		Reset Password screen
